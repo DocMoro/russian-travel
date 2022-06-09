@@ -1,0 +1,21 @@
+.places__right-column {
+  width: 484px;
+}
+
+@media screen and (max-width: 1024px) {
+  .places__right-column {
+    width: 928px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places__right-column {
+    width: 720px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .places__right-column {
+    width: 145px;
+  }
+}

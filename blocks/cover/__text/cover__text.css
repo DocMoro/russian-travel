@@ -1,0 +1,14 @@
+.cover__text {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #FFF;
+  position: absolute;
+  margin: 0;
+  width: 360px;
+  top: 58%;
+  left: 34.8%;
+}

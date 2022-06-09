@@ -1,0 +1,28 @@
+.places__place {
+  display: flex;
+  justify-content: space-between;
+  width: 984px;
+  margin-bottom: 80px;
+}
+
+.places__place:last-of-type {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .places__place {
+    width: 928px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places__place {
+    width: 720px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .places__place {
+    width: 145px;
+  }
+}
