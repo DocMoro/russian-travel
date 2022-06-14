@@ -6,9 +6,15 @@
   line-height: 22px;
   text-align: center;
   color: #FFF;
-  position: absolute;
-  margin: 0;
+  margin: 16px 0 0;
   width: 360px;
-  top: 58%;
-  left: 34.8%;
+}
+
+@media screen and (max-width: 568px) {
+  .cover__text {
+    width: 260px;
+    margin: 8px 0 0;
+    font-size: 14px;
+    line-height: 16px;
+  }
 }
