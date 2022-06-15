@@ -7,12 +7,12 @@
   text-align: center;
   color: #FFF;
   margin: 16px 0 0;
-  width: 360px;
+  width: 380px;
 }
 
 @media screen and (max-width: 568px) {
   .cover__text {
-    width: 260px;
+    width: 275px;
     margin: 8px 0 0;
     font-size: 14px;
     line-height: 16px;

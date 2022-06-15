@@ -2,7 +2,7 @@
   box-sizing: border-box;
   display: grid;
   justify-content: space-between;
-  grid-template-columns: repeat(2, minmax(min-content, 1fr));
+  grid-template-columns: repeat(2, minmax(min-content, max-content));
   grid-template-areas: 
   "title link"
   "image paragraph";
@@ -26,7 +26,7 @@
   }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 640px) {
   .places__place {
     padding: 0;
     row-gap: 32px;
