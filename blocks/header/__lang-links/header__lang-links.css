@@ -1,9 +1,7 @@
 .header__lang-links {
   display: flex;
-  justify-content: space-between;
-  margin-top: 46px;
-  margin-right: 48px;
-  width: 77px;
+  margin: 0 48px 0 0;
+  padding: 0;
 }
 
 @media screen and (max-width: 768px) {
@@ -14,8 +12,6 @@
 
 @media screen and (max-width: 425px) {
   .header__lang-links {
-    margin-top: 30px;
     margin-right: 16px;
-    width: 62px;
   }
 }
