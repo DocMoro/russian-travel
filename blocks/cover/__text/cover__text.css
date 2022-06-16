@@ -7,15 +7,13 @@
   text-align: center;
   color: #FFF;
   margin: 16px 0 0;
-  max-width: 380px;
+  max-width: 360px;
   width: 100%;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 @media screen and (max-width: 568px) {
   .cover__text {
-    max-width: 275px;
+    max-width: 265px;
     margin: 8px 0 0;
     font-size: 14px;
     line-height: 16px;
