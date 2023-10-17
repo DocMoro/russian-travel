@@ -5,4 +5,4 @@
 2. Адаптивная вёрстка;  
 3. Работа с макетом в Figma;
 -----------------------------------------------------------  
-*Ссылка:* [https://docmoro.github.io/russian-travel/index.html]
+*Ссылка:* [https://docmoro.github.io/russian-travel/]
